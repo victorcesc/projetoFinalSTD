@@ -10,4 +10,4 @@ services:
     build: .
     container_name: jogador
 
-  
+  # docker compose up --scale jogador=3 para dois jogadores
